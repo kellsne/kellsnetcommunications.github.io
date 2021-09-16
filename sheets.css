@@ -1,0 +1,26 @@
+body{
+	background-color: aliceblue;
+	font-family: sans-serif;
+	padding: 0;
+	margin: 0;
+
+}
+
+.banner{
+	display: flex;
+	height: fit-content;
+	width: fit-content;%;
+	background-color: darkgrey;
+
+}
+.banner-2{
+	display: flex;
+	background-color: grey;
+	height: fit-content;
+	width: fit-content;
+	padding-left: 70px;
+
+
+}
+
+

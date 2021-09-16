@@ -1,0 +1,164 @@
+body{
+	padding: 0px;
+	margin: 0px;
+}
+.but{
+	color: red;
+}
+
+
+div{
+	color: lightgray;
+}
+.nav-link1 h2{
+	color: white;
+	te
+}
+.nav-link2 h2{
+	color: white;
+}
+.nav-link3 h2{
+	color: white;
+}
+.nav-link4 h2{
+	color: white;
+}
+.contact-wrapper{
+	color: royalblue;
+}
+.but{
+	color: red;
+}
+
+.navigation-wrapper{
+	height: 80px;
+	background-color: #2c3e50;
+	color: #cbcbcbs;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding:50px 60px;
+}
+.features-section h2{
+	padding: 0px 10px;
+}
+.why h1{
+	padding: 0px 10px;
+	color: red;
+}
+.left-colunm{
+	display: flex;
+	align-items: center;
+
+}
+.hero-section{
+	background-image: url(kisspng-dstv-television-antenna-low-noise-block-downconver-5b333d5cec72f3.2136142915300847009685.png);
+	padding: 0px;
+	height: 300px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+
+
+
+}
+.hero-section > .top-heading{
+	padding: 1px 20px;
+	
+	color: cbcbcb;
+	width: auto;
+	border-radius: 2px;
+
+}
+
+
+
+.hero-section > .bottom-heading{
+	background-color: #cea135;
+	color: #11122b;
+	padding: 1px 20px;
+	margin-top: 15px;
+	width: 107px;
+	border-radius: 2px;
+
+}
+.features-section{
+	background-color:royalblue;
+
+	
+}
+.features-section2 > .colunm-wrapper h3{
+	padding: 20px 5px;
+}
+
+
+
+
+.hero-section2{
+	background-image: url(kisspng-supersport-high-definition-television-television-c-5af0f844b819c8.0503981915257416367541.png);
+	padding: 0px;
+	height: 300px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+}
+
+.colunm-section2{
+	background-color: royalblue;
+	
+}
+.colunm-section2 h3{
+	padding: 5px 25px;
+
+
+
+
+}
+.colunm-section2 h1{
+	padding: 5px 25px;
+	color: red;
+}
+
+
+
+.hero-section3{
+	background-image: url(kisspng-exeter-television-antenna-dstv-pay-television-satellite-dish-5b317cf69918e4.1400190415299699106271.png);
+	padding: 0px;
+	height: 300px;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+}
+.hero-colunm3{
+	background-color: royalblue;
+
+}
+.hero-colunm3 h1 {
+	color: red;
+	padding: 5px 25px;
+	text-underline-position: under;
+}
+.hero-colunm3 h3{ 
+	padding: 5px 25px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
